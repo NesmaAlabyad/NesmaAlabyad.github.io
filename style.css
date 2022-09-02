@@ -1101,8 +1101,14 @@ img{
   cursor: pointer;
 }
 .row .col-lg-4  img{
-  width: 75%;
+  width: 90%;
 
+<<<<<<< Updated upstream
 padding-left: 80px;
   height: 33vh;
 }
+=======
+padding-left: 10px;
+  height: 70;
+}
+>>>>>>> Stashed changes
